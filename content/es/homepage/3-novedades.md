@@ -4,6 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-Proximas fechas:
-- 06/08/2025 - Lugar
-- 09/08/2025 - Lugar
+Encontranos en las próximas ferias:
+- 31/08/2025 - Gran Barata Feria - Villa Pueyrredón
+- 14/09/2025 - Nina Ferias - La Lucila
+- 04/10/2025 - Club Sarmiento - Olivos
